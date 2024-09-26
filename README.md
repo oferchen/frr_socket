@@ -1,5 +1,3 @@
-Here is the `README.md` file for your `BGPDCommunicator` Python program:
-
 ```markdown
 # BGPDCommunicator
 
